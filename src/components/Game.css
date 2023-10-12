@@ -55,7 +55,7 @@
 (max-width: 640px){
     
     .game{
-        width: 450px;
+        width: 25em;
         /* margin-left: -20px; */
     }
     
